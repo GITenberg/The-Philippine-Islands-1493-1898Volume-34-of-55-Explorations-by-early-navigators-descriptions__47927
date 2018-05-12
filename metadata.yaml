@@ -1,4 +1,5 @@
 _repo: The-Philippine-Islands-1493-1898Volume-34-of-55-Explorations-by-early-navigators-descriptions__47927
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Bourne, Edward Gaylord
@@ -18,12 +19,17 @@ contributor:
       deathdate: 1939
       gutenberg_agent_id: '2297'
       url: http://www.gutenberg.org/2009/agents/2297
+covers:
+- cover_type: archival
+  image_path: 47927-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Pigafetta, Antonio
     gutenberg_agent_id: '41908'
     url: http://www.gutenberg.org/2009/agents/41908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47927#The-Philippine-Islands-1493-1898Volume-34-of-55-Explorations-by-early-navigators-descriptions_
 gutenberg_issued: '2015-01-09'
 gutenberg_type: Text
 identifiers:
